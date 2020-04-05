@@ -13036,3 +13036,9 @@ li .single-footer-contact-info .text p span{
 .fancybox-container{
     z-index: 99999999;
 }
+.video-image-holder-area{
+    padding: 110px 0;
+}
+.single-project-image-gallery{
+    margin-bottom: 20px;
+}

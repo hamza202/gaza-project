@@ -891,9 +891,9 @@ if($('.lightbox-image').length) {
         }
     });
 }
-// if($('.fancybox-link').length){
-//     $('.fancybox-link').fancybox({})
-// }
+if($('.fancybox-link').length){
+    $('.fancybox-link').fancybox({})
+}
 
 
 
