@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="270d81ef-690c-4ca8-8b75-63dcda91e2bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/resources/breadcrumb-bg-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/resources/breadcrumb-bg-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/resources/breadcrumb-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/3.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <workItem from="1586830069557" duration="239000" />
       <workItem from="1587131956163" duration="599000" />
       <workItem from="1587240348553" duration="8698000" />
-      <workItem from="1587297158670" duration="1093000" />
+      <workItem from="1587297158670" duration="6294000" />
     </task>
     <servers />
   </component>
@@ -76,5 +75,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586070668936" />
+    <state x="1982" y="180" key="run.anything.popup" timestamp="1587336129636">
+      <screen x="1366" y="-121" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="180" key="run.anything.popup/0.0.1366.728/1366.-121.1920.1040@1366.-121.1920.1040" timestamp="1587336129636" />
   </component>
 </project>
