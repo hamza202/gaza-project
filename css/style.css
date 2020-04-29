@@ -5071,6 +5071,8 @@ select:focus {
     width: 100%;
     transform: scale(1.01);
     transition: all 700ms ease;
+    height: 320px;
+    object-fit: cover;
 }
 
 .single-project-style2:hover .img-holder img {
@@ -8615,7 +8617,7 @@ li .single-footer-contact-info .text p span {
 
 .how-work-box .how-works-content ul li .icon {
     position: absolute;
-    top: 6px;
+    top: 2px;
     left: 1px;
 }
 
@@ -14759,4 +14761,73 @@ ul.my-list li:before {
     background-color: #00aeef;
     left: 0;
     top: 7px;
+}
+.video-section .video-holder-box .img-holder .icon-holder .icon .inner a{
+    height: 70px;
+    width: 70px;
+}
+.video-section .video-holder-box .img-holder .icon-holder .icon .inner a span:before{
+    font-size: 30px;
+    line-height: 67px;
+}
+.video-container .post-date{
+    position: relative;
+    display: inline-block;
+    height: 45px;
+    border-bottom: 3px solid #dadada;
+    transition: all 700ms ease 500ms;
+}
+.video-container .post-date h3 {
+    position: relative;
+    display: block;
+    color: #00aeef;
+    font-size: 36px;
+    line-height: 38px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.video-container .post-date h3 span {
+    color: #27282c;
+    font-size: 14px;
+}
+.mt-100{
+    margin-top: 100px;
+}
+.video-section .video-holder-box .img-holder img{
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
+}
+.video-section  .video-container{
+    margin-bottom: 30px;
+}
+@media (min-width: 992px) {
+    .single-contact-address-box{
+        height: calc(100% + 85px);
+    }
+}
+.social-list{
+    margin-top: 10px;
+    padding: 0 !important;
+}
+.social-list li{
+    padding: 1px !important;
+}
+.social-list li p{
+    margin: 0;
+}
+.social-list li:not(:last-child){
+    margin-bottom: 5px !important;
+}
+.social-list li i{
+    color: #00aeef;
+    font-size: 16px;
+    width: 20px;
+    text-align: center;}
+a.dark-link{
+    color: #27282c;
+    transition: all ease-in-out 0.3s;
+}
+a.dark-link:hover{
+    color: #00aeef;
 }
