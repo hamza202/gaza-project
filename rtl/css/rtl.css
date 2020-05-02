@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap');
+body{
+    direction: rtl;
+    font-family: 'Tajawal', sans-serif !important;
+}
+.sec-title .title , p, h1,h2,h3,h4,h5,h6,a,button{
+    font-family: 'Tajawal', sans-serif !important;
+}
+.top-style2-right,.mainmenu-right{
+    float: left;
+}
+.top-style2-left,.main-menu .navigation > li,.main-menu{
+    float: right;
+}
+.mainmenu-right.style2 .button{
+    margin-left: 0;
+}
+.mainmenu-right.style2{
+    margin-left: 0;
+}
+.main-menu.style2 .navigation > li{
+    margin-left: 40px;
+    margin-right: 0;
+}
+.main-menu.style2 .navigation > li.dropdown > a:after{
+    right: auto;
+    left: -12px;
+}
+.main-menu .navigation > li > ul > li > a{
+    padding: 16px 30px 15px;
+}
+.main-menu .navigation > li > ul > li:hover > a{
+    padding-left: 0;
+    padding-right: 70px;
+}
+.main-menu .navigation > li > ul > li > a:after{
+    left: auto;
+    right: 30px;
+    transform: scale(0) rotate(180deg);
+}
+.main-menu .navigation > li > ul > li:hover a:after{
+    transform: scale(1.0) rotate(180deg);
+}
+.btn-one span:before{
+    transform: rotate(180deg);
+    top: 6px;
+}
+.tp-parallax-wrap{
+    left: auto !important;
+    right: 50px !important;
+}
+.main-menu .navigation > li > a{
+    font-size: 15px;
+    font-weight: 600;
+}
+.about-carousel-box .single-box .text-holder{
+    padding-left: 0;
+    padding-right: 30px;
+}
+.about-carousel-box .owl-dots{
+    right: -10px;
+    left: auto;
+}
+.about-carousel-box:before{
+    right: 40px;
+    left: auto;
+    transform: perspective(1200px) rotateY(0) translateZ(0px);
+}
+.single-working-box .text-holder .plus-icon-box{
+    right: auto;
+    left: 30px;
+}
+.single-working-box .text-holder .outer-box .text{
+    padding-left: 0;
+    padding-right: 30px;
+}
+.btn-two span:before,.brand-items-carousel.owl-carousel .owl-nav [class*="owl-"]{
+    transform: rotate(180deg);
+}
+.brand-items-carousel.owl-carousel .owl-nav .owl-next{
+    margin-left: 0;
+    margin-right: 10px;
+}
+.brand-items-carousel.owl-carousel .owl-nav{
+    right: auto;
+    left: 0;
+}
+.single-footer-widget .services-links ul li a,.single-footer-widget .recent-news li .title-holder{
+    padding-left: 0;
+    padding-right: 20px;
+}
+.single-footer-widget .recent-news li{
+    padding-left: 0;
+    padding-right: 75px;
+}
+.single-footer-widget .recent-news li .img-holder{
+    right: 0;
+    left: auto;
+}
+.footer-social-links span{
+    float: right;
+    padding-left: 15px;
+    padding-right: 0;
+}
+.single-footer-widget .services-links ul li a:before{
+    left: auto;
+    right: 0;
+}
+.top-style2-left ul{
+    direction: ltr;
+}
+.single-service-sidebar .service-pages li a{
+    padding-left: 0;
+    padding-right: 30px;
+}
+.single-service-sidebar .service-pages li a:before{
+    left: auto;
+    right: -1px;
+}
+.breadcrumb-area .breadcrumb-menu ul li{
+    padding-right: 0;
+    padding-left: 17px;
+    float: right;
+    margin-left: 10px;
+}
+.breadcrumb-area .breadcrumb-menu ul li:before{
+    left: 0;
+    right: auto;
+}
+.contact-form form input[type="text"], .contact-form form input[type="email"], .contact-form form textarea{
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.contact-form form .input-box .icon{
+    right: 20px;
+    left: auto;
+}
+.how-work-box .how-works-content ul li .text{
+    padding-left: 0;
+    padding-right: 20px;
+}
+.how-work-box .how-works-content ul li .icon{
+    right: 1px;
+    left: auto;
+}
+.how-work-box .how-works-content ul li{
+    padding-left: 0;
+    padding-right: 20px;
+}
+.how-work-box .how-works-content ul li .text span{
+    font-size: 16px;
+}
+.main-menu .navbar-collapse > ul li.dropdown .dropdown-btn{
+    right: auto;
+    left: 10px;
+}
+.single-blog-colum-style1:before{
+    left: auto;
+    right: 0;
+}
+.single-blog-colum-style1{
+    padding-left: 0;
+    padding-right: 30px;
+}
+.single-blog-post.style3 .text-holder:before,.single-blog-post.style3 .text-holder:after{
+    right: -29px;
+    left: auto;
+}
+.single-blog-post.style3 .post-date{
+    left: 20px;
+    right: auto;
+}
+.post-pagination li a i{
+    transform: rotate(180deg);
+    top: 3px;
+}
+.sidebar-title:before{
+    right: -30px;
+    left: auto;
+}
+.single-sidebar .recent-post li{
+    padding-right: 60px;
+    padding-left: 0;
+}
+.overlay-style-one,.single-sidebar .recent-post li .img-holder{
+    right: 0;
+    left: auto;
+}
+.single-sidebar .recent-post li .title-holder{
+    padding-right: 20px;
+    padding-left: 0;
+}
+.tag-with-social-links-box .social-links-box .sociallinks{
+
+}
+.tag-with-social-links-box .social-links-box p{
+    float: right;
+}
+.tag-with-social-links-box .social-links-box p i{
+    padding-left: 8px;
+    padding-right: 0;
+}
+.tag-with-social-links-box .social-links-box .sociallinks{
+    float: right;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.blog-single-area .inner-comment-box .single-comment-box .text-box .top .name{
+    float: right;
+}
+.single-project-style2 .title-box{
+    right: 40px;
+    left: auto;
+}
+.single-project-style2 .read-more{
+    right: 40px;
+    left: auto;
+}
+.single-project-style2 .read-more{
+    transform: rotate(180deg);
+}
+ul.my-list li{
+    padding-left: 0;
+    padding-right: 20px;
+}
+ul.my-list li:before{
+    left: auto;
+    right: 0;
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .top-style2-right , .top-style2-left{
+        float: none;
+
+    }
+}
+@media (min-width: 992px) {
+    .tp-parallax-wrap{
+        left: auto !important;
+        right: 100px !important;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .main-menu .navbar-collapse .navigation li a {
+        text-align: right;
+    }
+}

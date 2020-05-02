@@ -361,6 +361,7 @@ function aboutCarousel () {
         $('.about-carousel-box').owlCarousel({
             dots: true,
             loop: true,
+            rtl:true,
             margin: 0,
             nav: false,
             navText: [
@@ -401,6 +402,7 @@ function projectCarousel () {
     if ($('.project-carousel').length) {
         $('.project-carousel').owlCarousel({
             dots: true,
+            rtl:true,
             loop: true,
             margin: 10,
             nav: false,
@@ -442,6 +444,7 @@ function brandCarousel () {
     if ($('.brand-items-carousel').length) {
         $('.brand-items-carousel').owlCarousel({
             dots: false,
+            rtl:true,
             loop: true,
             margin: 30,
             nav: true,
@@ -484,6 +487,7 @@ function brochuresCarousel () {
         $('.brochures-carousel-box').owlCarousel({
             dots: true,
             loop: true,
+            rtl:true,
             margin: 0,
             nav: false,
             navText: [
@@ -525,6 +529,7 @@ function projectCarouselv2 () {
         $('.project-carousel-v2').owlCarousel({
             dots: true,
             loop: true,
+            rtl:true,
             margin: 10,
             nav: false,
             navText: [
@@ -566,6 +571,7 @@ function workingProcessCarousel () {
         $('.working-process-carousel').owlCarousel({
             dots: false,
             loop: true,
+            rtl:true,
             margin: 30,
             nav: true,
             navText: [
@@ -608,6 +614,7 @@ function testimonialCarousel () {
             dots: true,
             loop: true,
             margin: 30,
+            rtl:true,
             nav: false,
             navText: [
                 '<i class="flaticon-back"></i>',
@@ -647,6 +654,7 @@ function servicesCarousel () {
     if ($('.services-carousel').length) {
         $('.services-carousel').owlCarousel({
             dots: true,
+            rtl:true,
             loop: true,
             margin: 30,
             nav: false,
@@ -688,6 +696,7 @@ function projectCarouselv3 () {
     if ($('.project-carousel-v3').length) {
         $('.project-carousel-v3').owlCarousel({
             dots: false,
+            rtl:true,
             loop: true,
             margin: 60,
             nav: true,
@@ -730,6 +739,7 @@ function testimonialCarouselV2 () {
             dots: true,
             loop: true,
             margin: 30,
+            rtl:true,
             nav: true,
             navText: [
                 '<i class="flaticon-back"></i>',
@@ -768,6 +778,7 @@ function historyCarousel () {
     if ($('.history-carousel').length) {
         $('.history-carousel').owlCarousel({
             dots: true,
+            rtl:true,
             loop: true,
             margin: 0,
             nav: true,
