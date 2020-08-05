@@ -244,3 +244,40 @@ ul.my-list li:before{
         text-align: right;
     }
 }
+.outer-search-box{
+    float: right;
+}
+@media only screen and (max-width: 1380px) and (min-width: 1200px) {
+    .mainmenu-right.style2 {
+        margin-left: 15px !important;
+    }
+}
+.outer-search-box{
+    margin-right: 0;
+    margin-left: 15px;
+}
+.outer-search-box .seach-toggle{
+    border-right: 0;
+    border-left: 1px solid #ededed;
+}
+.search-box{
+    right: auto;
+    left: 0;
+}
+@media (max-width: 576px) {
+    .mainmenu-right.style2 .button a{
+        padding: 0 10px 0;
+        font-size: 13px;
+
+    }
+    .mainmenu-right.style2 .button{
+        margin-left: 0;
+    }
+    .outer-search-box .seach-toggle{
+        border-right: 0;
+    }
+    .search-box{
+        right: -125%;
+        left: auto;
+    }
+}

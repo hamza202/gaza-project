@@ -14838,3 +14838,25 @@ a.dark-link:hover{
     width: 60px;
     height: 60px;
 }
+@media only screen and (max-width: 1380px) and (min-width: 1200px) {
+    .mainmenu-right.style2 {
+        margin-left: 15px !important;
+    }
+}
+@media (max-width: 576px) {
+    .mainmenu-right.style2 .button a{
+        padding: 0 10px 0;
+        font-size: 13px;
+
+    }
+    .mainmenu-right.style2 .button{
+        margin-left: 0;
+    }
+    .outer-search-box .seach-toggle{
+        border-right: 0;
+    }
+    .search-box{
+        right: auto;
+        left: -125%;
+    }
+}
